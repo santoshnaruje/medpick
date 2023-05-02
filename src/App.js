@@ -119,7 +119,7 @@ function App() {
                 />
                 <p className="footer-logo"> ©2020 VAJRA, All Right Reserved</p>
               </div>
-              <p className="footer-logo">Terms & Conditions | FAQ'S</p>
+              <p className="logo-footer">Terms & Conditions | FAQ'S</p>
             </div>
           </footer>
         </div>
