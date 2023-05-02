@@ -112,7 +112,6 @@ function App() {
             <div className="footer d-flex justify-content-around align-items-center">
               <div className="d-flex align-items-center">
                 <img
-                  className="footer-logo"
                   src="https://medpick.in/wp-content/uploads/2020/03/Vajra-logo.png"
                   className="logo"
                   alt="vajra"
